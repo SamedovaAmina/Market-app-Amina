@@ -1,0 +1,26 @@
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\bin\Debug\net6.0-windows\Market app Amina.exe
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\bin\Debug\net6.0-windows\Market app Amina.deps.json
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\bin\Debug\net6.0-windows\Market app Amina.runtimeconfig.json
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\bin\Debug\net6.0-windows\Market app Amina.dll
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\bin\Debug\net6.0-windows\Market app Amina.pdb
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.csproj.AssemblyReference.cache
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.csproj.GenerateResource.cache
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.AssemblyInfoInputs.cache
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.AssemblyInfo.cs
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.csproj.CoreCompileInputs.cache
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.dll
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\refint\Market app Amina.dll
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.pdb
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market app Amina.genruntimeconfig.cache
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\ref\Market app Amina.dll
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Properties.Resources.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Form3.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Yoxlama.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Menu.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Form4.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Form5.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Form6.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Form7.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Form8.resources
+C:\Users\amina\Desktop\C# dersler\Market app Amina\Market app Amina\obj\Debug\net6.0-windows\Market_app_Amina.Form9.resources
